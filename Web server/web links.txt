@@ -1,0 +1,17 @@
+esp8266 library documentation:
+
+http://esp8266.github.io/Arduino/versions/2.1.0-rc1/doc/libraries.html
+https://links2004.github.io/Arduino/d0/d52/class_e_s_p8266_wi_fi_generic_class.html
+
+flask and html referances
+
+https://github.com/google/code-prettify
+http://www.brightsouth.co.uk/highlighting-example-code-website/
+
+flask restful api
+
+https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+
+flask mega tutorial
+
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
